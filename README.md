@@ -10,7 +10,7 @@ Además se busca graficar la temperatura en el tiempo para cada sensor, tanto la
 
 Resultados
 
-![imagen](/Puente_Golden.png)
+![imagen](/temperatura_en_puntos.jpeg)
 
 
 Conclusión
