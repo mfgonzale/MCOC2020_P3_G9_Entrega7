@@ -10,3 +10,8 @@ Además se busca graficar la temperatura en el tiempo para cada sensor, tanto la
 
 Resultados
 
+
+
+Conclusión
+
+Se cumplen los resultados mostrados en la tesis de Contreras
