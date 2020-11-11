@@ -10,8 +10,11 @@ Además se busca graficar la temperatura en el tiempo para cada sensor, tanto la
 
 Resultados
 
+En el siguiente grafico se puede observar la temperatura para cada sensor en el tiempo.
+
 ![imagen](/temperatura_en_puntos.jpeg)
 
+las imagenes de la variación de temperatura para un cubo de hormigón se presentan en las imagenes subidas en el repositorio para z= 0.5m
 
 Conclusión
 
